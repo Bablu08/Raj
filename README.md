@@ -15,6 +15,16 @@
 
 ###
 
+### About Me
+✨ **Creating bugs since** … the first line of code I wrote! But on a serious note, I have a knack for problem-solving and continuously strive to improve my skills.
+
+🛠️ **Currently Learning:** Full Stack Web Development to enhance my ability to build robust and dynamic web applications.
+
+🎯 **Goals:** I aim to become an Ethical Hacker, ensuring digital security while maintaining a strong foundation in web development.
+
+🎲 **Fun Fact:** I’m like RAM—quick to learn and quick to forget! But, like good RAM, I always have something stored for the right moment.
+
+
 <h2 align="left">I code with</h2>
 
 ###
