@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Raj Kishore Behera and I'm a Student & Developer, from Bhadrak, Odisha.</p>
+<p align="left">Hey 👋, I'm Raj! A tech enthusiast and passionate coder from Bhadrak, Odisha. Whether I'm debugging code or exploring new technologies, I'm always up for a challenge. 
+</p>
 
 ###
 
