@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ **Creating bugs since** my first line of code!
+<p align="left">✨ Creating bugs since...
   <br>
   📚 I'm currently learning Full Stack Web-Dev
   <br>
