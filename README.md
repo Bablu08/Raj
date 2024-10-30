@@ -1,85 +1,60 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there! 👋 Welcome to My GitHub Space!
 
-###
+<img src="https://github.com/Bablu08.png" width="200" alt="Profile Image" align="right">
 
-<p align="left">Hey 👋, I'm Raj! A tech enthusiast and passionate coder from Bhadrak, Odisha. Whether I'm debugging code or exploring new technologies, I'm always up for a challenge. 
-</p>
+I'm **Raj Kishore Behera** — a passionate Developer and Computer Science student from **Bhadrak, Odisha, India**. I'm constantly learning, building, and collaborating on projects that push the boundaries of technology. 
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🚀 About Me
+- 🔨 **Working on**: Exploring the depths of ethical hacking and cybersecurity while building projects in C, Java, and Web Development.
+- 🌱 **Currently learning**: Cloud Computing ☁️, SQL 🗃️, Ethical Hacking 💻, and expanding my skills in Java ☕ and C.
+- 🤝 **Open for collaboration**: Let's connect if you have ideas in Cybersecurity, Web Development, or Cloud projects!
+- 🤔 **Looking for**: Opportunities to contribute to open-source projects.
+- 💬 **Ask me about**: Front-end development and anything tech-related!
+- ⚡ **Fun fact**: I'm just like RAM — fast and volatile! 🔥
 
-###
+---
 
-<p align="left">✨ Creating bugs since...
-  <br>
-  📚 I'm currently learning Full Stack Web-Dev
-  <br>
-  🎯 Goals: Ethical Hacker
-  <br>
-  🎲 Fun fact: I am just like RAM (Memory)
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <h5 align="left">**Frontend:**</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-
-  <h5 align="left">**Backend:**</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-
-  <h5 align="left">**Databases:**</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-
-  <h5 align="left">**Languages:**</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" height="40" alt="sql logo"  />
-  <img width="12" /> -->
-
-  <h5 align="left">**Tools & Platforms:**</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bablu08&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablu08&theme=radical" alt="Streak Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu08&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
-###
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Tool-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Tool-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue">
+</div>
+
+---
+
+### 📫 How to Reach Me
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
+- **Twitter**: [Follow me](https://twitter.com/your-profile)
+- **Email**: youremail@example.com
+
+---
+
+### 🌱 Favorite Repositories
+
+Here are a few of my own repositories that I think you'll find interesting!
+
+- **[C-the-Bedrock](https://github.com/Bablu08/C-the-Bedrock)** – Essential C programs and algorithms for mastering the foundations.
+- **[Java-the-Legend](https://github.com/Bablu08/Java-the-Legend)** – Advanced Java programs for skill-building and exploration.
+- **[Cyber-the-Shield](https://github.com/Bablu08/Cyber-the-Shield)** – A comprehensive journey into ethical hacking and cyber defense.
+
+---
+
+Thank you for visiting my GitHub! Feel free to explore my repositories and reach out if you’d like to collaborate!
