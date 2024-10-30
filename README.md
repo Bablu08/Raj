@@ -18,9 +18,9 @@ I'm **Raj Kishore Behera** — a passionate Developer and Computer Science stude
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bablu08&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablu08&theme=radical" alt="Streak Stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu08&layout=compact&theme=radical" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bablu08&show_icons=true&theme=radical" alt="GitHub Stats" width="80%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablu08&theme=radical" alt="Streak Stats" width="80%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu08&layout=compact&theme=radical" alt="Top Languages" width="80%">
 </div>
 
 ---
