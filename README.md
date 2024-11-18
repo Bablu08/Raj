@@ -1,60 +1,39 @@
-# Hey there! 👋 Welcome to My GitHub Space!
+![Header Banner](URL-to-banner-image)
 
-<img src="https://github.com/Bablu08.png" width="200" alt="Profile Image" align="right">
-
-I'm **Raj Kishore Behera** — a passionate Developer and Computer Science student from **Bhadrak, Odisha, India**. I'm constantly learning, building, and collaborating on projects that push the boundaries of technology. 
+# [YourUsername] here 🔥
+### Namaste 🙏 I'm [Your Name]
 
 ---
 
-### 🚀 About Me
-- 🔨 **Working on**: Exploring the depths of ethical hacking and cybersecurity while building projects in C, Java, and Web Development.
-- 🌱 **Currently learning**: Cloud Computing ☁️, SQL 🗃️, Ethical Hacking 💻, and expanding my skills in Java ☕ and C.
-- 🤝 **Open for collaboration**: Let's connect if you have ideas in Cybersecurity, Web Development, or Cloud projects!
-- 🤔 **Looking for**: Opportunities to contribute to open-source projects.
-- 💬 **Ask me about**: Front-end development and anything tech-related!
-- ⚡ **Fun fact**: I'm just like RAM — fast and volatile! 🔥
+### 🌟 About Me
+- 🚀 Software Developer with experience in [Tech Stack].
+- 📚 Currently studying [Field of Study].
+- 🤖 Interested in [Interests: AI, ML, etc.].
+- 🎯 I only aim for **perfection**.
+
+---
+
+### ⚙️ Languages & Tools I Have Used
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bablu08&show_icons=true&theme=radical" alt="GitHub Stats" width="65%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablu08&theme=radical" alt="Streak Stats" width="65%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu08&layout=compact&theme=radical" alt="Top Languages" width="65%">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
 
 ---
 
-### 🛠️ Languages and Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Tool-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Tool-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue">
-</div>
+### 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=RepoName&theme=dark)](https://github.com/YourUsername/RepoName)
 
 ---
 
-### 📫 How to Reach Me
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
-- **Twitter**: [Follow me](https://twitter.com/your-profile)
-- **Email**: youremail@example.com
+### ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 🌱 Favorite Repositories
-
-Here are a few of my own repositories that I think you'll find interesting!
-
-- **[C-the-Bedrock](https://github.com/Bablu08/C-the-Bedrock)** – Essential C programs and algorithms for mastering the foundations.
-- **[Java-the-Legend](https://github.com/Bablu08/Java-the-Legend)** – Advanced Java programs for skill-building and exploration.
-- **[Cyber-the-Shield](https://github.com/Bablu08/Cyber-the-Shield)** – A comprehensive journey into ethical hacking and cyber defense.
-
----
-
-Thank you for visiting my GitHub! Feel free to explore my repositories and reach out if you’d like to collaborate!
+### ☕ Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FCA311?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/YourUsername)
