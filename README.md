@@ -5,7 +5,8 @@
   margin: 15px 0;
   text-align: left;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-  max-width: 400px;">
+  max-width: 400px;
+  border-radius: 10%;">
 
 
 # Hey there! 👋 Welcome to My GitHub Space!
