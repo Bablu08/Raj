@@ -1,4 +1,11 @@
-<img src="https://i.pinimg.com/736x/dd/3a/5f/dd3a5f9cb9ecbe638d22eed4b186453c.jpg" alt="Repo Card">
+<img src="https://i.pinimg.com/736x/dd/3a/5f/dd3a5f9cb9ecbe638d22eed4b186453c.jpg" alt="Repo Card" 
+  style=" border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px 0;
+  text-align: left;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 400px;">
 
 
 # Hey there! 👋 Welcome to My GitHub Space!
