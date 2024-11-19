@@ -43,7 +43,7 @@ I'm *Raj Kishore Behera* — a passionate Developer and Computer Science student
 ---
 
 ### 📫 How to Reach Me
-- *LinkedIn*: [Connect with me](https://linkedin.com/in/your-profile)
+- *LinkedIn*: [Connect with me](www.linkedin.com/in/rajkishore24)
 - *Twitter*: [Follow me](https://twitter.com/your-profile)
 - *Email*: rajkishorebehera358@gmail.com
 
