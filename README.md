@@ -62,4 +62,4 @@ Here are a few of my own repositories that I think you'll find interesting!
 Thank you for visiting my GitHub! Feel free to explore my repositories and reach out if you’d like to collaborate!
 
 ---
-<img src="https://i.pinimg.com/736x/d6/62/8f/d6628f4b72afd1d0d03fa379134dcf39.jpg" width="200" height="50">
+<img src="https://i.pinimg.com/736x/d6/62/8f/d6628f4b72afd1d0d03fa379134dcf39.jpg" width="full" height="50">
