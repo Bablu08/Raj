@@ -2,7 +2,9 @@
 
 # Hey there! 👋 Welcome to My GitHub Space!
 
-<img src="https://github.com/Bablu08.png" width="200" alt="Profile Image" align="right">
+<div style="text-align: center;">
+  <img src="https://github.com/Bablu08.png" alt="GitHub Logo" style="border: 5px solid #0366d6; border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+</div>
 
 I'm *Raj Kishore Behera* — a passionate Developer and Computer Science student from *Bhadrak, Odisha, India*. I'm constantly learning, building, and collaborating on projects that push the boundaries of technology. 
 
