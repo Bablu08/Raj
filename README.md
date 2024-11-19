@@ -1,4 +1,4 @@
-<img src="https://in.pinterest.com/pin/267049452940653942/" alt="Repo Card">
+<img src="https://i.pinimg.com/736x/dd/3a/5f/dd3a5f9cb9ecbe638d22eed4b186453c.jpg" alt="Repo Card">
 
 
 # Hey there! 👋 Welcome to My GitHub Space!
